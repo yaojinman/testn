@@ -1,4 +1,7 @@
 1 
 2 
+<<<<<<< HEAD
 3 
 dev 4 
+=======
+>>>>>>> parent of c1005b1... add one line content is 3
